@@ -82,7 +82,7 @@ body {
     justify-content: space-between;
     flex-direction: column;
     align-self: center;
-    gap: 32px;
+    gap: 1.5rem;
 }
 
 .Presentacion__enlaces__sub {
